@@ -37,7 +37,7 @@
   }
   .seguro-conteudo {
     grid-row: 1;
-    gap: 40px;
+    padding-top: 40px;
     padding-bottom: 0px;
   }
 }
